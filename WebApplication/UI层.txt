@@ -1,0 +1,1 @@
+﻿用户接口层。对外提供各种协议形式的服务，并提供Validation参数校验，authenticate权限认证，业务实体组装器Assembler等。
