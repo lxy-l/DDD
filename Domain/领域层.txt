@@ -1,2 +1,0 @@
-﻿业务领域层。
-DDD概念中的核心业务层，封装所有业务逻辑，包含entity、value object、domain service、domain event等。

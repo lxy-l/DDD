@@ -1,1 +1,0 @@
-﻿基础设施层。提供公共组件，如：Logging、Trascation、HttpClient等。
