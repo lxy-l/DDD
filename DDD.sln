@@ -12,9 +12,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{AD2A2AC9-18DE-49C4-9123-F2F585118772}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UserInterface", "UserInterface", "{051A1096-5426-4E01-9850-52EF26B3F50D}"
-	ProjectSection(SolutionItems) = preProject
-		WebApplication\UI层.txt = WebApplication\UI层.txt
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{C5025617-81AF-4DCF-96B5-32C16BDE719D}"
 EndProject
