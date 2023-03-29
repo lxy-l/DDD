@@ -44,11 +44,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Respository\仓储实现.txt" />
-    <Content Include="Service\基础设施服务.txt" />
-    <Content Include="UnitOfWork\工作单元.txt" />
-    <Content Include="基础设施层.txt" />
+    <Folder Include="Respository\" />
+    <Folder Include="Service\" />
+    <Folder Include="UnitOfWork\" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

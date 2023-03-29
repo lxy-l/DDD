@@ -45,16 +45,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="DTO\数据传输对象.txt" />
-    <Content Include="Events\领域事件.txt" />
-    <Content Include="IRespository\仓储接口.txt" />
-    <Content Include="IUnitOfWork\工作单元接口.txt" />
-    <Content Include="Model\领域模型.png" />
-    <Content Include="Model\领域模型.txt" />
-    <Content Include="Service\领域服务.txt" />
-    <Content Include="Specification\规约实现.txt" />
-    <Content Include="领域层.txt" />
+    <Folder Include="DTO\" />
+    <Folder Include="Events\" />
+    <Folder Include="IRespository\" />
+    <Folder Include="Model\" />
+    <Folder Include="Service\" />
+    <Folder Include="Specification\" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
